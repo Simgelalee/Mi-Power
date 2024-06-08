@@ -1,6 +1,13 @@
 # SalaryPrediction Project -Nano Grup
 
 This is a basic Flask application Dockerized for easy deployment.
+## If you would like to visit our website :
+
+[Our Website](https://salaryprediction-56qr.onrender.com/) 
+
+## Final version of the project 
+
+https://github.com/Nanogrup/SalaryPrediction/assets/84244385/6da5e577-3aaf-4f92-bd43-d67cb5b6ce21
 
 ## Project Overview 
 In this project, I was responsible for data analysis, data visualization, preprocessing, data cleaning, and modelling the data on the machine learning side. I analyzed the performance metrics of various machine learning models, comparing their error and success rates on training and test sets to evaluate which one yielded the best results. Additionally, I assessed cross-validation results and considered the models' run times to determine whether they were overfitting.
