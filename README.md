@@ -3,6 +3,7 @@
 This is a basic Flask application Dockerized for easy deployment.
 
 ## Project Overview 
+In this project, I was responsible for data analysis, data visualization, preprocessing, data cleaning, and modelling the data on the machine learning side. I analyzed the performance metrics of various machine learning models, comparing their error and success rates on training and test sets to evaluate which one yielded the best results. Additionally, I assessed cross-validation results and considered the models' run times to determine whether they were overfitting.
 ### Home Page
 ![Ekran Resmi 2024-06-02 01 13 07](https://github.com/Nanogrup/SalaryPrediction/assets/103145955/43cda262-196c-444f-a65b-20ac83d12a2b)
 
